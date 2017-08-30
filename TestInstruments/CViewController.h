@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CViewController.h
 //  TestInstruments
 //
 //  Created by xgb on 2017/8/30.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CViewController : UIViewController
 
 @end
-
